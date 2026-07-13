@@ -1,0 +1,434 @@
+﻿rmct_term_id,preferred_label,alternative_labels,broader_dimension,narrower_category,n_companies,total_mentions,company_coverage_percent,final_term_status,source_types
+RMCT_TERM_0009,advisory,advisory,Certification / Quality Capability,Certifications and standards,16,65,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0004,as9100,as9100,Certification / Quality Capability,Certifications and standards,18,34,2.03,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0002,certification,certification,Certification / Quality Capability,Certifications and standards,111,295,12.5,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0010,certified quality,certified quality,Certification / Quality Capability,Certifications and standards,11,16,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0005,iatf 16949,iatf 16949,Certification / Quality Capability,Certifications and standards,14,24,1.58,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0003,iso 14001,iso 14001; iso14001,Certification / Quality Capability,Certifications and standards,40,61,4.5,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0006,iso 45001,iso 45001,Certification / Quality Capability,Certifications and standards,13,18,1.46,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0001,iso 9001,iso 9001; iso9001,Certification / Quality Capability,Certifications and standards,169,344,19.03,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0008,iso certification,accredited iso; certified iso; iso accreditation; iso accredited; iso certificate; iso certification; iso certified; iso iso; iso quality; iso quality management; iso standards; management iso; quality management iso; standards iso,Certification / Quality Capability,Certifications and standards,31,49,3.49,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0007,quality standards,highest quality standards; highest standards quality; quality standard; quality standards; standard quality; standards quality,Certification / Quality Capability,Certifications and standards,59,84,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0011,supervisor,supervisor,Certification / Quality Capability,Certifications and standards,10,15,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0012,compliance,compliance,Certification / Quality Capability,Other quality capability,124,359,13.96,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0013,traceability,traceability,Certification / Quality Capability,Other quality capability,50,99,5.63,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0034,best quality,best quality,Certification / Quality Capability,Quality management,21,26,2.36,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0020,commitment quality,commitment quality,Certification / Quality Capability,Quality management,73,121,8.22,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0040,compromising quality,compromising quality,Certification / Quality Capability,Quality management,18,36,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0026,consistent quality,consistent quality,Certification / Quality Capability,Quality management,26,38,2.93,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0059,customers quality,customers quality,Certification / Quality Capability,Quality management,13,18,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0048,dedication quality,dedication quality,Certification / Quality Capability,Quality management,14,18,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0049,deliver high quality,deliver high quality; deliver high-quality,Certification / Quality Capability,Quality management,14,18,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0027,deliver quality,deliver quality,Certification / Quality Capability,Quality management,25,35,2.82,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0025,delivering high quality,delivering high-quality,Certification / Quality Capability,Quality management,27,38,3.04,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0050,delivering quality,delivering quality,Certification / Quality Capability,Quality management,14,21,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0032,ensure quality,ensure quality,Certification / Quality Capability,Quality management,22,25,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0051,ensuring quality,ensuring quality,Certification / Quality Capability,Quality management,14,17,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0028,exceptional quality,exceptional quality,Certification / Quality Capability,Quality management,25,37,2.82,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0035,focus quality,focus quality,Certification / Quality Capability,Quality management,21,26,2.36,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0017,high quality,high quality; high quality products; high quality service; high-quality; high-quality products; highest quality,Certification / Quality Capability,Quality management,196,377,22.07,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0037,improve quality,improve quality,Certification / Quality Capability,Quality management,19,30,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0065,level quality,level quality,Certification / Quality Capability,Quality management,12,13,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0060,manufacturing quality,manufacturing quality,Certification / Quality Capability,Quality management,13,14,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0066,offer quality,offer quality,Certification / Quality Capability,Quality management,12,23,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0077,outstanding quality,outstanding quality,Certification / Quality Capability,Quality management,10,12,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0052,precision quality,precision quality,Certification / Quality Capability,Quality management,14,16,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0067,pride quality,pride quality,Certification / Quality Capability,Quality management,12,13,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0072,produce high quality,produce high quality,Certification / Quality Capability,Quality management,11,12,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0068,producing high quality,producing high-quality,Certification / Quality Capability,Quality management,12,12,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0024,product quality,product quality,Certification / Quality Capability,Quality management,32,39,3.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0069,provide high quality,provide high quality; provide high-quality,Certification / Quality Capability,Quality management,12,17,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0061,provide quality,provide quality,Certification / Quality Capability,Quality management,13,16,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0053,providing high quality,providing high-quality,Certification / Quality Capability,Quality management,14,26,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0016,quality assurance,quality assurance,Certification / Quality Capability,Quality management,56,81,6.31,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0036,quality assured,quality assured,Certification / Quality Capability,Quality management,21,62,2.36,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0054,quality compliance,quality compliance,Certification / Quality Capability,Quality management,14,18,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0043,quality components,quality components,Certification / Quality Capability,Quality management,16,19,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0015,quality control,quality control,Certification / Quality Capability,Quality management,73,135,8.22,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0044,quality cost,quality cost,Certification / Quality Capability,Quality management,15,17,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0038,quality customer,quality customer,Certification / Quality Capability,Quality management,19,26,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0062,quality efficiency,quality efficiency,Certification / Quality Capability,Quality management,13,18,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0070,quality finish,quality finish,Certification / Quality Capability,Quality management,12,22,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0014,quality management,quality management,Certification / Quality Capability,Quality management,93,193,10.47,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0041,quality management systems,quality management systems,Certification / Quality Capability,Quality management,18,30,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0078,quality manufacturing,quality manufacturing,Certification / Quality Capability,Quality management,10,10,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0045,quality materials,quality materials,Certification / Quality Capability,Quality management,15,17,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0039,quality performance,quality performance,Certification / Quality Capability,Quality management,19,35,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0055,quality policy,quality policy,Certification / Quality Capability,Quality management,14,20,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0023,quality precision,quality precision,Certification / Quality Capability,Quality management,38,55,4.28,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0022,quality product,quality product,Certification / Quality Capability,Quality management,46,78,5.18,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0073,quality production,quality production,Certification / Quality Capability,Quality management,11,11,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0018,quality products,quality products,Certification / Quality Capability,Quality management,84,125,9.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0046,quality products services,quality products services,Certification / Quality Capability,Quality management,15,24,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0030,quality quality,quality quality,Certification / Quality Capability,Quality management,23,23,2.59,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0021,quality reliability,quality reliability,Certification / Quality Capability,Quality management,48,69,5.41,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0074,quality reliable,quality reliable,Certification / Quality Capability,Quality management,11,13,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0075,quality requirements,quality requirements,Certification / Quality Capability,Quality management,11,20,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0031,quality safety,quality safety,Certification / Quality Capability,Quality management,23,25,2.59,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0019,quality service,quality service,Certification / Quality Capability,Quality management,78,127,8.78,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0079,quality services,quality services,Certification / Quality Capability,Quality management,10,12,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0056,quality systems,quality systems,Certification / Quality Capability,Quality management,14,20,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0029,quality work,quality work,Certification / Quality Capability,Quality management,24,35,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0057,quality workmanship,quality workmanship,Certification / Quality Capability,Quality management,14,22,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0063,range high quality,range high quality; range high-quality,Certification / Quality Capability,Quality management,13,15,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0058,reputation quality,reputation quality,Certification / Quality Capability,Quality management,14,18,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0064,rigorous quality,rigorous quality,Certification / Quality Capability,Quality management,13,15,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0033,service quality,service quality,Certification / Quality Capability,Quality management,22,31,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0047,strict quality,strict quality,Certification / Quality Capability,Quality management,15,24,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0071,stringent quality,stringent quality,Certification / Quality Capability,Quality management,12,16,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0080,supply quality,supply quality,Certification / Quality Capability,Quality management,10,11,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0081,supplying high quality,supplying high quality,Certification / Quality Capability,Quality management,10,13,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0076,supplying quality,supplying quality,Certification / Quality Capability,Quality management,11,17,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0042,top quality,top-quality,Certification / Quality Capability,Quality management,17,26,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0086,final inspection,final inspection,Certification / Quality Capability,Testing and inspection,10,11,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0083,inspection,inspection,Certification / Quality Capability,Testing and inspection,110,259,12.39,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0084,inspections,inspections,Certification / Quality Capability,Testing and inspection,43,75,4.84,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0087,metrology,metrology,Certification / Quality Capability,Testing and inspection,12,16,1.35,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0085,rigorous testing,rigorous testing,Certification / Quality Capability,Testing and inspection,12,16,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0082,testing,testing,Certification / Quality Capability,Testing and inspection,160,469,18.02,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0092,batch,batch,Commercial & Supply Readiness,Capacity and production scale,72,142,8.11,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0091,batch production,batch production,Commercial & Supply Readiness,Capacity and production scale,10,16,1.13,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0093,batches,batches,Commercial & Supply Readiness,Capacity and production scale,22,39,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0096,capacity,capacity,Commercial & Supply Readiness,Capacity and production scale,140,352,15.77,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0088,high volume,high volume,Commercial & Supply Readiness,Capacity and production scale,38,71,4.28,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0089,low volume,low volume,Commercial & Supply Readiness,Capacity and production scale,25,48,2.82,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0090,production capacity,production capacity,Commercial & Supply Readiness,Capacity and production scale,11,19,1.24,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0094,small batch,small batch,Commercial & Supply Readiness,Capacity and production scale,20,33,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0095,small batches,small batches,Commercial & Supply Readiness,Capacity and production scale,10,11,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0107,bespoke,bespoke,Commercial & Supply Readiness,Custom and bespoke supply,285,794,32.09,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0104,bespoke engineering,bespoke engineering,Commercial & Supply Readiness,Custom and bespoke supply,11,12,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0098,bespoke products,bespoke products,Commercial & Supply Readiness,Custom and bespoke supply,20,35,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0105,bespoke projects,bespoke projects,Commercial & Supply Readiness,Custom and bespoke supply,10,13,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0097,bespoke solutions,bespoke solutions,Commercial & Supply Readiness,Custom and bespoke supply,29,37,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0100,create bespoke,create bespoke,Commercial & Supply Readiness,Custom and bespoke supply,15,21,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0108,custom manufacturing,custom manufacturing,Commercial & Supply Readiness,Custom and bespoke supply,6,8,0.68,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0102,manufacture bespoke,manufacture bespoke,Commercial & Supply Readiness,Custom and bespoke supply,14,24,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0099,offer bespoke,offer bespoke,Commercial & Supply Readiness,Custom and bespoke supply,17,23,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0103,provide bespoke,provide bespoke,Commercial & Supply Readiness,Custom and bespoke supply,12,13,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0101,range bespoke,range bespoke,Commercial & Supply Readiness,Custom and bespoke supply,15,23,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0106,standard bespoke,standard bespoke,Commercial & Supply Readiness,Custom and bespoke supply,10,15,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0114,collection delivery,collection delivery,Commercial & Supply Readiness,Delivery and responsiveness,12,13,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0112,day delivery,day delivery,Commercial & Supply Readiness,Delivery and responsiveness,14,24,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0111,delivery service,delivery service,Commercial & Supply Readiness,Delivery and responsiveness,16,18,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0110,delivery times,delivery times,Commercial & Supply Readiness,Delivery and responsiveness,14,27,1.58,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0109,lead time,lead time; short lead times,Commercial & Supply Readiness,Delivery and responsiveness,19,27,2.14,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0117,on-time delivery,on time delivery; on-time delivery,Commercial & Supply Readiness,Delivery and responsiveness,14,21,1.58,validated_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0113,project delivery,project delivery,Commercial & Supply Readiness,Delivery and responsiveness,13,20,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0118,rapid turnaround,rapid turnaround,Commercial & Supply Readiness,Delivery and responsiveness,7,13,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0115,service delivery,service delivery,Commercial & Supply Readiness,Delivery and responsiveness,11,16,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0116,time delivery,time delivery,Commercial & Supply Readiness,Delivery and responsiveness,10,16,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0121,contract manufacturing,contract manufacturing,Commercial & Supply Readiness,Supply and subcontract readiness,7,15,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0122,customers suppliers,customers suppliers,Commercial & Supply Readiness,Supply and subcontract readiness,7,7,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0123,subcontract machining,subcontract machining,Commercial & Supply Readiness,Supply and subcontract readiness,5,15,0.56,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0120,subcontract manufacturing,subcontract,Commercial & Supply Readiness,Supply and subcontract readiness,19,61,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0119,supply chain,supply chain,Commercial & Supply Readiness,Supply and subcontract readiness,74,180,8.33,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0163,aided design,aided design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,16,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0178,bespoke design,bespoke design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,12,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0179,bespoke designs,bespoke designs,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,12,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0125,cad,cad; cad design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,106,231,11.94,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0126,cam,cam,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,36,59,4.05,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0180,complete design,complete design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,15,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0164,computer aided design,computer aided design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,16,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0144,concept design,concept design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,20,23,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0131,design build,design build,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,40,76,4.5,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0181,design consultancy,design consultancy,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,16,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0182,design deliver,design deliver,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,10,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0171,design delivery,design delivery,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,13,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0172,design develop,design develop,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,18,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0135,design development,design development,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,34,46,3.83,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0139,design engineering,design engineering,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,28,84,3.15,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0150,design engineers,design engineers,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,16,32,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0124,design for manufacture,design for manufacture; design manufacture; design manufacturing,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,143,333,16.1,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0137,design installation,design installation,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,29,51,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0160,design manufacture installation,design manufacture installation,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,13,28,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0151,design process,design process,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,16,25,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0146,design production,design production,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,18,21,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0152,design project,design project,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,16,23,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0145,design service,design service,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,20,33,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0183,design services,design services,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,27,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0165,design software,design software,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,18,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0138,design solutions,design solutions,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,29,61,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0156,design supply,design supply,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,14,24,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0186,design support,design support,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,9,12,1.01,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0133,design team,design team,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,36,59,4.05,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0128,designed,designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,283,718,31.87,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0153,designed built,designed built,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,16,33,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0134,designed manufactured,designed manufactured,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,36,54,4.05,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0141,designed meet,designed meet,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,24,36,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0184,designed provide,designed provide,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,11,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0142,designer,designer,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,22,31,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0132,designers,designers,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,37,84,4.17,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0130,designing,designing,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,85,133,9.57,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0173,designing building,designing building,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,17,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0147,designing manufacturing,designing manufacturing,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,18,26,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0129,designs,designs,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,151,318,17.0,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0157,designs manufactures,designs manufactures,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,14,17,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0161,detailed design,detailed design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,13,19,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0136,engineering design,engineering design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,31,74,3.49,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0174,equipment designed,equipment designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,26,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0158,experience design,experience design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,14,15,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0159,expertise design,expertise design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,14,26,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0166,homepage design,homepage design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,12,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0185,house design,house design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,10,17,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0154,in house design,in-house design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,16,23,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0175,including design,including design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,12,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0148,initial design,initial design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,17,29,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0127,product design,product design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,24,44,2.7,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0143,products designed,products designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,22,29,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0167,services design,services design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,22,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0168,services designed,services designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,14,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0176,solutions design,solutions design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,13,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0140,solutions designed,solutions designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,28,36,3.15,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0162,specialists design,specialists design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,13,17,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0149,specifically designed,specifically designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,17,34,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0177,support design,support design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,11,14,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0169,systems design,systems design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,20,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0155,systems designed,systems designed,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,15,31,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0170,technical design,technical design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,12,16,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0187,tool design,tool design,"Design, Engineering & Product Lifecycle Support",Design and digital engineering support,9,16,1.01,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0193,development production,development production,"Design, Engineering & Product Lifecycle Support",Engineering support,13,19,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0192,engineering solutions,engineering solutions,"Design, Engineering & Product Lifecycle Support",Engineering support,59,136,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0190,engineering support,engineering support,"Design, Engineering & Product Lifecycle Support",Engineering support,20,25,2.25,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0189,product development,product development,"Design, Engineering & Product Lifecycle Support",Engineering support,44,81,4.95,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0191,reverse engineering,reverse engineering,"Design, Engineering & Product Lifecycle Support",Engineering support,17,23,1.91,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0188,technical support,technical support,"Design, Engineering & Product Lifecycle Support",Engineering support,45,66,5.07,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0194,maintenance,maintenance,"Design, Engineering & Product Lifecycle Support",Lifecycle support and aftercare,163,453,18.36,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0196,refurbishment,refurbishment,"Design, Engineering & Product Lifecycle Support",Lifecycle support and aftercare,59,210,6.64,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0195,repair,repair,"Design, Engineering & Product Lifecycle Support",Lifecycle support and aftercare,99,315,11.15,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0199,prototype,prototype,"Design, Engineering & Product Lifecycle Support",Prototyping and product development,74,194,8.33,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0201,prototype production,prototype production,"Design, Engineering & Product Lifecycle Support",Prototyping and product development,10,18,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0200,prototypes,prototypes,"Design, Engineering & Product Lifecycle Support",Prototyping and product development,53,127,5.97,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0197,prototyping,prototyping,"Design, Engineering & Product Lifecycle Support",Prototyping and product development,57,137,6.42,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0198,rapid prototyping,rapid prototype; rapid prototyping,"Design, Engineering & Product Lifecycle Support",Prototyping and product development,10,23,1.13,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0202,automation,automation,Digital / Smart Manufacturing Capability,Automation and robotics,73,422,8.22,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0205,automation solutions,automation solutions,Digital / Smart Manufacturing Capability,Automation and robotics,17,42,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0206,industrial automation,industrial automation,Digital / Smart Manufacturing Capability,Automation and robotics,12,23,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0204,robotic,robotic,Digital / Smart Manufacturing Capability,Automation and robotics,21,69,2.36,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0207,robotic welding,robotic welding,Digital / Smart Manufacturing Capability,Automation and robotics,5,10,0.56,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0203,robotics,robotics,Digital / Smart Manufacturing Capability,Automation and robotics,17,63,1.91,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0209,sensors,sensors,Digital / Smart Manufacturing Capability,Digital manufacturing systems,14,26,1.58,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0208,simulation,simulation,Digital / Smart Manufacturing Capability,Digital manufacturing systems,23,73,2.59,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0210,cnc,cnc,Digital / Smart Manufacturing Capability,Other digital capability,144,632,16.22,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0211,industry 4.0,industry 4.0,Digital / Smart Manufacturing Capability,Other digital capability,7,10,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0213,ceramic,ceramic,Material Capability,Ceramics and glass,17,33,1.91,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0212,glass,glass,Material Capability,Ceramics and glass,34,176,3.83,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0214,composite,composite,Material Capability,Composites,20,43,2.25,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0266,alloy,alloy,Material Capability,Metals and alloys,43,180,4.84,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0270,alloy steel,alloy steel,Material Capability,Metals and alloys,5,15,0.56,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0216,aluminium,aluminium,Material Capability,Metals and alloys,168,807,18.92,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0260,aluminium brass,aluminium brass,Material Capability,Metals and alloys,10,24,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0242,aluminium stainless,aluminium stainless,Material Capability,Metals and alloys,18,21,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0243,aluminium stainless steel,aluminium stainless steel,Material Capability,Metals and alloys,18,21,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0267,brass,brass,Material Capability,Metals and alloys,38,119,4.28,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0268,bronze,bronze,Material Capability,Metals and alloys,16,48,1.8,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0265,copper,copper,Material Capability,Metals and alloys,47,182,5.29,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0261,including aluminium,including aluminium,Material Capability,Metals and alloys,10,10,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0262,including steel,including steel,Material Capability,Metals and alloys,10,10,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0221,layer1 metal,layer1 metal,Material Capability,Metals and alloys,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0222,layer1 metal structures,layer1 metal structures,Material Capability,Metals and alloys,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0226,layer1 primary metal,layer1 primary metal,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0227,layer1 primary metal production,layer1 primary metal production,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0248,metal components,metal components,Material Capability,Metals and alloys,15,46,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0249,metal pressings,metal pressings,Material Capability,Metals and alloys,13,35,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0228,metal production,metal production,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0229,metal production scrape,metal production scrape,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0230,metal production scrape date,metal production scrape date,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0256,metal products,metal products,Material Capability,Metals and alloys,11,19,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0220,metal structures,metal structures,Material Capability,Metals and alloys,104,104,11.71,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0254,metal work,metal work,Material Capability,Metals and alloys,12,15,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0250,metallic,metallic,Material Capability,Metals and alloys,13,16,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0225,metals,metals,Material Capability,Metals and alloys,72,185,8.11,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0241,metalwork,metalwork,Material Capability,Metals and alloys,20,50,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0218,mild steel,mild steel,Material Capability,Metals and alloys,48,124,5.41,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0244,mild steel stainless,mild steel stainless,Material Capability,Metals and alloys,17,48,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0246,mild steel stainless steel,mild steel stainless steel,Material Capability,Metals and alloys,16,44,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0257,non ferrous metals,non-ferrous metals,Material Capability,Metals and alloys,11,31,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0231,primary metal,primary metal,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0232,primary metal production,primary metal production,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0233,primary metal production scrape,primary metal production scrape,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0258,quality metal,quality metal,Material Capability,Metals and alloys,11,18,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0251,quality steel,quality steel,Material Capability,Metals and alloys,13,16,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0252,range metal,range metal,Material Capability,Metals and alloys,13,20,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0263,range steel,range steel,Material Capability,Metals and alloys,10,14,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0223,rmct layer1 metal,rmct layer1 metal,Material Capability,Metals and alloys,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0224,rmct layer1 metal structures,rmct layer1 metal structures,Material Capability,Metals and alloys,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0234,rmct layer1 primary metal,rmct layer1 primary metal,Material Capability,Metals and alloys,70,70,7.88,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0219,sheet metal,sheet metal,Material Capability,Metals and alloys,42,136,4.73,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0217,stainless steel,stainless; stainless steel; stainless steels,Material Capability,Metals and alloys,127,542,14.3,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0240,stainless steel aluminium,stainless steel aluminium,Material Capability,Metals and alloys,25,38,2.82,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0215,steel,steel,Material Capability,Metals and alloys,267,1997,30.07,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0235,steel aluminium,steel aluminium,Material Capability,Metals and alloys,49,73,5.52,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0264,steel copper,steel copper,Material Capability,Metals and alloys,10,14,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0269,steel frame,steel frame,Material Capability,Metals and alloys,7,24,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0247,steel products,steel products,Material Capability,Metals and alloys,16,35,1.8,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0255,steel sections,steel sections,Material Capability,Metals and alloys,12,36,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0237,steel stainless,steel stainless,Material Capability,Metals and alloys,29,69,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0238,steel stainless steel,steel stainless steel,Material Capability,Metals and alloys,29,65,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0259,steel stainless steel aluminium,steel stainless steel aluminium,Material Capability,Metals and alloys,11,16,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0236,steels,steels,Material Capability,Metals and alloys,34,132,3.83,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0239,steelwork,steelwork,Material Capability,Metals and alloys,29,100,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0245,structural steel,structural steel,Material Capability,Metals and alloys,17,29,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0253,structural steelwork,structural steelwork,Material Capability,Metals and alloys,13,30,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0274,carbon fibre,carbon fibre,Material Capability,Other material capability,8,24,0.9,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0271,raw material,raw material,Material Capability,Other material capability,16,24,1.8,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0273,titanium,titanium,Material Capability,Other material capability,29,36,3.27,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0272,wood,wood,Material Capability,Other material capability,30,38,3.38,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0275,plastic,plastic; plastics,Material Capability,Polymers and plastics,58,116,6.53,validated_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0276,rubber,rubber,Material Capability,Polymers and plastics,24,48,2.7,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0278,assembly,assembly,Process Capability,Fabrication and assembly,145,447,16.33,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0277,fabrication,fabrication,Process Capability,Fabrication and assembly,191,716,21.51,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0282,fabrication scrape,fabrication scrape,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0283,fabrication scrape date,fabrication scrape date,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0284,fabrication scrape date status,fabrication scrape date status,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0292,fabrication services,fabrication services,Process Capability,Fabrication and assembly,29,93,3.27,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0295,fabrication welding,fabrication welding,Process Capability,Fabrication and assembly,12,24,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0291,fabrications,fabrications,Process Capability,Fabrication and assembly,66,276,7.43,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0298,final assembly,final assembly,Process Capability,Fabrication and assembly,11,22,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0285,layer1 metal structures fabrication,layer1 metal structures fabrication,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0296,manufacture assembly,manufacture assembly,Process Capability,Fabrication and assembly,12,19,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0280,metal fabrication,metal fabrication,Process Capability,Fabrication and assembly,27,102,3.04,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0286,metal structures fabrication,metal structures fabrication,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0287,metal structures fabrication scrape,metal structures fabrication scrape,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0281,sheet metal fabrication,sheet metal fabrication,Process Capability,Fabrication and assembly,12,37,1.35,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0293,steel fabrication,steel fabrication,Process Capability,Fabrication and assembly,24,126,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0300,steel fabrication services,steel fabrication services,Process Capability,Fabrication and assembly,10,29,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0297,steel fabrications,steel fabrications,Process Capability,Fabrication and assembly,12,63,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0288,structures fabrication,structures fabrication,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0289,structures fabrication scrape,structures fabrication scrape,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0290,structures fabrication scrape date,structures fabrication scrape date,Process Capability,Fabrication and assembly,103,103,11.6,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0299,tig welding,tig welding,Process Capability,Fabrication and assembly,11,17,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0279,welding,welding,Process Capability,Fabrication and assembly,126,466,14.19,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0294,welding fabrication,welding fabrication,Process Capability,Fabrication and assembly,19,27,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0302,casting,casting,Process Capability,"Forming, casting and forging",52,372,5.86,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0312,casting foundry,casting foundry,Process Capability,"Forming, casting and forging",22,30,2.48,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0313,casting foundry scrape,casting foundry scrape,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0314,casting foundry scrape date,casting foundry scrape date,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0311,castings,castings,Process Capability,"Forming, casting and forging",42,327,4.73,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0301,forging,forging,Process Capability,"Forming, casting and forging",69,171,7.77,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0303,forging forming,forging forming,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0304,forging forming pressing,forging forming pressing,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0305,forging forming pressing scrape,forging forming pressing scrape,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0321,forgings,forgings,Process Capability,"Forming, casting and forging",15,80,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0322,forming,forming,Process Capability,"Forming, casting and forging",104,240,11.71,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0315,layer1 casting,layer1 casting,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0316,layer1 casting foundry,layer1 casting foundry,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0317,layer1 casting foundry scrape,layer1 casting foundry scrape,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0306,layer1 forging,layer1 forging,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0307,layer1 forging forming,layer1 forging forming,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0308,layer1 forging forming pressing,layer1 forging forming pressing,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0320,metal forming,metal forming,Process Capability,"Forming, casting and forging",17,43,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0323,presswork,presswork,Process Capability,"Forming, casting and forging",15,41,1.69,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0318,rmct layer1 casting,rmct layer1 casting,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0319,rmct layer1 casting foundry,rmct layer1 casting foundry,Process Capability,"Forming, casting and forging",19,19,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0309,rmct layer1 forging,rmct layer1 forging,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0310,rmct layer1 forging forming,rmct layer1 forging forming,Process Capability,"Forming, casting and forging",59,59,6.64,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0340,axis machining,axis machining,Process Capability,Machining and subtractive processes,12,60,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0342,boring,boring,Process Capability,Machining and subtractive processes,16,75,1.8,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0327,cnc machining,cnc machining; cnc milling; cnc turning; machining services; precision machining,Process Capability,Machining and subtractive processes,53,148,5.97,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0346,complex machining,complex machining,Process Capability,Machining and subtractive processes,5,7,0.56,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0329,drilling,drilling,Process Capability,Machining and subtractive processes,39,81,4.39,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0328,grinding,grinding,Process Capability,Machining and subtractive processes,48,201,5.41,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0330,layer1 machining,layer1 machining,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0331,layer1 machining subtractive,layer1 machining subtractive,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0332,layer1 machining subtractive scrape,layer1 machining subtractive scrape,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0324,machining,machining,Process Capability,Machining and subtractive processes,207,999,23.31,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0338,machining centres,machining centres,Process Capability,Machining and subtractive processes,18,77,2.03,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0347,machining processes,machining processes,Process Capability,Machining and subtractive processes,5,6,0.56,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0344,machining service,machining service,Process Capability,Machining and subtractive processes,7,7,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0339,machining solutions,machining solutions,Process Capability,Machining and subtractive processes,14,41,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0333,machining subtractive,machining subtractive,Process Capability,Machining and subtractive processes,122,123,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0334,machining subtractive scrape,machining subtractive scrape,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0335,machining subtractive scrape date,machining subtractive scrape date,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0326,milling,milling,Process Capability,Machining and subtractive processes,58,177,6.53,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0343,milling and turning,milling turning; turning milling,Process Capability,Machining and subtractive processes,16,26,1.8,validated_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0345,milling machine,milling machine,Process Capability,Machining and subtractive processes,7,18,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0341,milling machines,milling machines,Process Capability,Machining and subtractive processes,11,15,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0336,rmct layer1 machining,rmct layer1 machining,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0337,rmct layer1 machining subtractive,rmct layer1 machining subtractive,Process Capability,Machining and subtractive processes,122,122,13.74,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0325,turning,turning,Process Capability,Machining and subtractive processes,70,142,7.88,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0348,injection moulding,injection moulding,Process Capability,Moulding and polymer processing,10,34,1.13,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0349,moulding,moulding,Process Capability,Moulding and polymer processing,24,67,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0350,plastic injection moulding,plastic injection moulding,Process Capability,Moulding and polymer processing,6,15,0.68,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0361,cutting,cutting,Process Capability,Other process capability,202,723,22.75,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0356,cutting edge,cutting edge; cutting-edge,Process Capability,Other process capability,85,139,9.57,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0357,cutting edge technology,cutting-edge technology,Process Capability,Other process capability,24,28,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0360,cutting service,cutting service,Process Capability,Other process capability,10,13,1.13,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0353,heat treatment,heat treatment,Process Capability,Other process capability,36,137,4.05,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0355,laser,laser,Process Capability,Other process capability,90,478,10.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0352,laser cutting,laser cut; laser cutting,Process Capability,Other process capability,45,158,5.07,core_term,literature_seed; website_new_candidate; website_validated_seed
+RMCT_TERM_0359,lasers,lasers,Process Capability,Other process capability,12,57,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0351,precision engineering,precision engineering,Process Capability,Other process capability,73,236,8.22,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0354,tooling,tooling,Process Capability,Other process capability,114,452,12.84,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0358,tooling design,tooling design,Process Capability,Other process capability,13,29,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0364,coating,coating,Process Capability,Surface finishing and treatment,125,446,14.08,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0368,coating scrape,coating scrape,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0369,coating scrape date,coating scrape date,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0370,coating scrape date status,coating scrape date status,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0378,coating services,coating services,Process Capability,Surface finishing and treatment,13,20,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0366,coatings,coatings,Process Capability,Surface finishing and treatment,48,417,5.41,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0365,finishing,finishing,Process Capability,Surface finishing and treatment,94,306,10.59,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0377,finishing services,finishing services,Process Capability,Surface finishing and treatment,15,25,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0371,layer1 surface treatment coating,layer1 surface treatment coating,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0376,metal finishing,metal finishing,Process Capability,Surface finishing and treatment,20,50,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0362,powder coating,powder coating,Process Capability,Surface finishing and treatment,50,186,5.63,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0363,surface finishing,surface finishing,Process Capability,Surface finishing and treatment,15,32,1.69,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0372,surface treatment coating,surface treatment coating,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0373,surface treatment coating scrape,surface treatment coating scrape,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0367,treatment coating,treatment coating,Process Capability,Surface finishing and treatment,45,46,5.07,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0374,treatment coating scrape,treatment coating scrape,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0375,treatment coating scrape date,treatment coating scrape date,Process Capability,Surface finishing and treatment,44,44,4.95,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0381,aerospace,aerospace,Sector / Market Capability,Application sector,144,419,16.22,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0396,aerospace automotive,aerospace automotive,Sector / Market Capability,Application sector,24,46,2.7,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0395,aerospace defence,aerospace defence,Sector / Market Capability,Application sector,27,47,3.04,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0397,aerospace industry,aerospace industry,Sector / Market Capability,Application sector,20,23,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0400,aerospace transport,aerospace transport,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0401,aerospace transport scrape,aerospace transport scrape,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0402,aerospace transport scrape date,aerospace transport scrape date,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0421,agriculture,agriculture,Sector / Market Capability,Application sector,24,48,2.7,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0379,automotive,automotive,Sector / Market Capability,Application sector,267,750,30.07,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0394,automotive aerospace,automotive aerospace,Sector / Market Capability,Application sector,41,62,4.62,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0412,automotive construction,automotive construction,Sector / Market Capability,Application sector,12,28,1.35,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0384,automotive industry,automotive industry,Sector / Market Capability,Application sector,41,69,4.62,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0413,automotive manufacturing,automotive manufacturing,Sector / Market Capability,Application sector,11,13,1.24,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0409,automotive sector,automotive sector,Sector / Market Capability,Application sector,14,28,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0386,automotive vehicle,automotive vehicle,Sector / Market Capability,Application sector,89,91,10.02,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0387,automotive vehicle parts,automotive vehicle parts,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0388,automotive vehicle parts scrape,automotive vehicle parts scrape,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0380,construction,construction,Sector / Market Capability,Application sector,211,795,23.76,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0415,defence,defence,Sector / Market Capability,Application sector,98,247,11.04,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0399,design construction,design construction,Sector / Market Capability,Application sector,19,43,2.14,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0418,electronics,electronics,Sector / Market Capability,Application sector,45,224,5.07,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0414,energy,energy,Sector / Market Capability,Application sector,160,751,18.02,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0410,including aerospace,including aerospace,Sector / Market Capability,Application sector,14,14,1.58,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0398,including automotive,including automotive,Sector / Market Capability,Application sector,20,34,2.25,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0411,industries automotive,industries automotive,Sector / Market Capability,Application sector,13,15,1.46,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0408,industries including automotive,industries including automotive,Sector / Market Capability,Application sector,15,23,1.69,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0403,layer1 aerospace,layer1 aerospace,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0404,layer1 aerospace transport,layer1 aerospace transport,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0405,layer1 aerospace transport scrape,layer1 aerospace transport scrape,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0389,layer1 automotive,layer1 automotive,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0390,layer1 automotive vehicle,layer1 automotive vehicle,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0391,layer1 automotive vehicle parts,layer1 automotive vehicle parts,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0383,marine,marine,Sector / Market Capability,Application sector,71,188,8.0,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0382,medical,medical,Sector / Market Capability,Application sector,74,143,8.33,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0422,mobility,mobility,Sector / Market Capability,Application sector,19,69,2.14,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0420,nuclear,nuclear,Sector / Market Capability,Application sector,38,94,4.28,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0385,oil and gas,oil and gas,Sector / Market Capability,Application sector,27,60,3.04,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0419,packaging,packaging,Sector / Market Capability,Application sector,45,253,5.07,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0417,rail,rail,Sector / Market Capability,Application sector,69,205,7.77,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0406,rmct layer1 aerospace,rmct layer1 aerospace,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0407,rmct layer1 aerospace transport,rmct layer1 aerospace transport,Sector / Market Capability,Application sector,17,17,1.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0392,rmct layer1 automotive,rmct layer1 automotive,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0393,rmct layer1 automotive vehicle,rmct layer1 automotive vehicle,Sector / Market Capability,Application sector,88,88,9.91,regional_or_emerging_term,website_new_candidate
+RMCT_TERM_0416,transport,transport,Sector / Market Capability,Application sector,98,173,11.04,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0424,circular economy,circular economy,"Sustainability, Circularity & Lifecycle Management Capability",Circularity and resource recovery,7,27,0.79,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0423,recycling,recycling,"Sustainability, Circularity & Lifecycle Management Capability",Circularity and resource recovery,29,84,3.27,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0427,energy consumption,energy consumption,"Sustainability, Circularity & Lifecycle Management Capability",Environmental and energy performance,14,22,1.58,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0425,energy efficiency,energy efficiency,"Sustainability, Circularity & Lifecycle Management Capability",Environmental and energy performance,25,55,2.82,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0426,environmental management,environmental management,"Sustainability, Circularity & Lifecycle Management Capability",Environmental and energy performance,24,39,2.7,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0429,low carbon,low carbon,"Sustainability, Circularity & Lifecycle Management Capability",Environmental and energy performance,10,16,1.13,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0428,net zero,net zero,"Sustainability, Circularity & Lifecycle Management Capability",Environmental and energy performance,13,16,1.46,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0430,life cycle,life cycle,"Sustainability, Circularity & Lifecycle Management Capability",Lifecycle extension,10,25,1.13,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0431,lifecycle,lifecycle,"Sustainability, Circularity & Lifecycle Management Capability",Lifecycle extension,21,27,2.36,validated_term,literature_seed; website_validated_seed
+RMCT_TERM_0432,sustainability,sustainability,"Sustainability, Circularity & Lifecycle Management Capability",Other sustainability capability,81,241,9.12,core_term,literature_seed; website_validated_seed
+RMCT_TERM_0433,sustainable,sustainable,"Sustainability, Circularity & Lifecycle Management Capability",Other sustainability capability,119,308,13.4,validated_term,literature_seed; website_validated_seed

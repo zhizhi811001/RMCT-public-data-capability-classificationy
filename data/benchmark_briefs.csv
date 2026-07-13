@@ -1,0 +1,34 @@
+﻿brief_id,brief_description,primary_rmct_dimension,primary_capability_group,query_terms_or_criteria,is_primary_single_dimension_group
+Q1,CNC machining + ISO 9001,D1 Process Capability,process_cnc_machining,cnc machining; cnc milling; cnc turning; cnc; machining; precision machining,True
+Q1,CNC machining + ISO 9001,D1 Process Capability,cert_iso_9001,iso 9001; iso9001; bs en iso 9001; quality management system; ukas iso 9001,False
+Q1,CNC machining + ISO 9001,D1 Process Capability,keyword_only_baseline,cnc machining; cnc; machining,False
+Q2,Powder coating + ISO 14001,D1 Process Capability,process_powder_coating,powder coating; powder coat; powder coated; coating,True
+Q2,Powder coating + ISO 14001,D1 Process Capability,cert_iso_14001,iso 14001; iso14001; bs en iso 14001,False
+Q2,Powder coating + ISO 14001,D1 Process Capability,keyword_only_baseline,powder coating; coating,False
+Q3,Aluminium supplier for aerospace CNC,D2 Material Capability,material_aluminium,aluminium; aluminum; aluminium alloy; aluminum alloy,True
+Q3,Aluminium supplier for aerospace CNC,D2 Material Capability,process_cnc_machining,cnc machining; cnc milling; cnc turning; cnc; machining; precision machining,False
+Q3,Aluminium supplier for aerospace CNC,D2 Material Capability,sector_aerospace,aerospace; aviation; aircraft; aero engine; aero-engine,False
+Q3,Aluminium supplier for aerospace CNC,D2 Material Capability,keyword_only_baseline,aluminium; aluminum; aerospace; cnc,False
+Q4,Stainless steel fabrication for rail,D2 Material Capability,material_stainless_steel,stainless steel; steel; mild steel; carbon steel,True
+Q4,Stainless steel fabrication for rail,D2 Material Capability,process_fabrication,fabrication; fabricated; welding; welded; metal fabrication; steel fabrication,False
+Q4,Stainless steel fabrication for rail,D2 Material Capability,sector_rail,rail; railway; rolling stock; train; transport for london; network rail,False
+Q4,Stainless steel fabrication for rail,D2 Material Capability,keyword_only_baseline,stainless steel; steel; fabrication; rail,False
+Q5,ISO 9001 supplier for CNC machining,D3 Certification / Quality Capability,cert_iso_9001,iso 9001; iso9001; bs en iso 9001; quality management system; ukas iso 9001,True
+Q5,ISO 9001 supplier for CNC machining,D3 Certification / Quality Capability,process_cnc_machining,cnc machining; cnc milling; cnc turning; cnc; machining; precision machining,False
+Q5,ISO 9001 supplier for CNC machining,D3 Certification / Quality Capability,keyword_only_baseline,iso 9001; iso9001; quality management system; cnc; machining,False
+Q6,Automotive supplier with IATF 16949,D4 Sector / Market Capability,sector_automotive,automotive; vehicle; vehicles; oem; tier 1; tier one,True
+Q6,Automotive supplier with IATF 16949,D4 Sector / Market Capability,cert_iatf_16949,iatf 16949; iatf16949; ts 16949; iso/ts 16949,False
+Q6,Automotive supplier with IATF 16949,D4 Sector / Market Capability,keyword_only_baseline,automotive; vehicle; oem; iatf 16949,False
+Q7,Prototype/NPI machining supplier,"D5 Design, Engineering & Product Lifecycle Support",design_prototype_npi,prototype; prototyping; new product introduction; npi; product development; design for manufacture; design support,True
+Q7,Prototype/NPI machining supplier,"D5 Design, Engineering & Product Lifecycle Support",process_machining,machining; cnc machining; cnc; milling; turning; precision machining,False
+Q7,Prototype/NPI machining supplier,"D5 Design, Engineering & Product Lifecycle Support",keyword_only_baseline,prototype; prototyping; npi; new product introduction; machining,False
+Q8,Digital-capable forging supplier,D6 Digital / Smart Manufacturing Capability,digital_capability,digital; automation; automated; robot; robotic; cad; cam; erp; industry 4.0; smart manufacturing; control system,True
+Q8,Digital-capable forging supplier,D6 Digital / Smart Manufacturing Capability,process_forging_forming,forging; forge; forged; forming; pressing; presswork; stamping,False
+Q8,Digital-capable forging supplier,D6 Digital / Smart Manufacturing Capability,keyword_only_baseline,digital; automation; robotic; cad; cam; forging,False
+Q9,Bespoke/low-volume fabrication supplier,D7 Commercial & Supply Readiness,commercial_bespoke_low_volume,bespoke; custom; customised; customized; low volume; small batch; short lead time; rapid turnaround,True
+Q9,Bespoke/low-volume fabrication supplier,D7 Commercial & Supply Readiness,process_fabrication,fabrication; fabricated; welding; welded; metal fabrication; steel fabrication,False
+Q9,Bespoke/low-volume fabrication supplier,D7 Commercial & Supply Readiness,keyword_only_baseline,bespoke; custom; low volume; small batch; fabrication,False
+Q10,Sustainable aluminium casting supplier,"D8 Sustainability, Circularity & Lifecycle Management",sustainability,sustainable; sustainability; recycling; recycled; low carbon; environmental; energy efficient; circular,True
+Q10,Sustainable aluminium casting supplier,"D8 Sustainability, Circularity & Lifecycle Management",material_aluminium,aluminium; aluminum; aluminium alloy; aluminum alloy,False
+Q10,Sustainable aluminium casting supplier,"D8 Sustainability, Circularity & Lifecycle Management",process_casting,casting; castings; foundry; die casting; sand casting; investment casting,False
+Q10,Sustainable aluminium casting supplier,"D8 Sustainability, Circularity & Lifecycle Management",keyword_only_baseline,sustainable; recycling; recycled; environmental; aluminium; casting,False
