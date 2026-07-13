@@ -68,7 +68,7 @@ RMCT-public-data-capability-classification/
     ├── code_availability_statement.md
     ├── public_website_data_ethics_statement.md
     └── reproducibility_protocol.md
-
+```
 
 ## 4. Data Sources
 The study uses two public-data sources:
