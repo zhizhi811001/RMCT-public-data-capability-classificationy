@@ -1,8 +1,6 @@
 # RMCT Public-Data Capability Classification
 Public-data-driven Regional Manufacturing Capability Taxonomy for manufacturing capability visibility and partner discovery.
 # RMCT Public-Data Capability Classification
-Public-data-driven Regional Manufacturing Capability Taxonomy for manufacturing capability visibility and partner discovery.
-# RMCT Public-Data Capability Classification
 
 This repository provides reproducibility materials for the study:
 
@@ -70,6 +68,8 @@ RMCT-public-data-capability-classification/
     ├── code_availability_statement.md
     ├── public_website_data_ethics_statement.md
     └── reproducibility_protocol.md
+
+
 ## 4. Data Sources
 The study uses two public-data sources:
 Company population frame
@@ -181,3 +181,4 @@ A full citation will be added after publication.
 
 ## 12. Contact
 For questions about the repository or associated manuscript, please contact the corresponding author.
+
