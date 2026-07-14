@@ -102,7 +102,7 @@ phone numbers;
 contact-form content.
 This approach allows the analysis to be checked without redistributing full website content.
 
-## 6. RMCT Dimensions
+## 6. RMCT facets
 The RMCT framework classifies manufacturing capability using eight first-level dimensions:
 Code	RMCT Dimension
 D1	Production Process Capability
