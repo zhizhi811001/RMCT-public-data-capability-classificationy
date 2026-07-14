@@ -58,12 +58,6 @@ where:
 - $avgdl$ is the average document length in the corpus;
 - $k_1$ and $b$ are BM25 parameters.
 
-The BM25 candidate list is:
-
-
-$$
-R_{\mathrm{BM25},q}=\operatorname{rank}_{f_i \in F}\left(BM25(b_q,d_i)\right)
-$$
 
 
 BM25 is a stronger comparator than simple keyword search because it accounts for term informativeness and document length. However, it remains lexical and does not provide an explicit capability structure.
